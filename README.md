@@ -17,7 +17,7 @@ Material de estudo sobre os fundamentos de engenharia de software que não mudam
 
 ## Como usar
 
-Acesse o guia completo em: **[padroes-atemporais](https://siquieroli.github.io/padroes-atemporais)**
+Acesse o guia completo em: **[padroes-atemporais.vercel.app](https://padroes-atemporais.vercel.app)**
 
 Ou clone o repositório e abra o `index.html` direto no navegador — não há dependências de build.
 
